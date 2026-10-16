@@ -1,0 +1,11 @@
+{
+  "archive_sha256": "c3880655eb387f32dd5b73b240b6f8eccf317beb28015c20ecefc3e2c1cd2d9b",
+  "identity_hits": 0,
+  "identity_patterns_checked": 25,
+  "manifest_files_verified": 186,
+  "old_git_history_included": false,
+  "paper_pdf_sha256": "80adadbaec78b4725043a710e4297ce473c38e06b2f8c3c3d3c8e49d2e27610b",
+  "pdf_text_and_metadata_identity_hits": 0,
+  "private_files_in_archive": false,
+  "scope": "Archive contents and staged public files checked locally. Live publication verification is recorded separately."
+}
